@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2021: International Research Fellow
   * Swiss Federal Institute of Technology, Lausanne (EPFL)
-  * Computationa and theoretical research on twisted mixed multilayer graphene
+  * Computational and theoretical research on twisted mixed multilayer graphene
   * Supervisor: Oleg Yazyev, Chair of Computational Condensed Matter Theory
 
 * Summer 2020: Research Assistant
