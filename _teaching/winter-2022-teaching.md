@@ -1,5 +1,5 @@
 ---
-title: "Statistical mechanics"
+title: "Statistical Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/winter-2022-teaching
