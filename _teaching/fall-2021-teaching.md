@@ -1,5 +1,5 @@
 ---
-title: "Quantum mechanics"
+title: "Quantum Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall-2021-teaching
