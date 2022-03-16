@@ -57,3 +57,5 @@ When this quantity is a factor of $2\pi$, everything is the same as before. But,
 
 I hope I've convinced you that when it comes to introductory electromangetism, not is all that meets the eye. It is important to be aware of the role of the vector potential in quantum mechanics, since it pops up everywhere! Spoiler alert: it's a quantum harmonic oscillator.
 
+$lpbg$
+
