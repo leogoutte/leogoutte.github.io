@@ -26,7 +26,7 @@ Work experience
   * Computational and theoretical research on twisted mixed multilayer graphene
   * Supervisor: Oleg Yazyev, Chair of Computational Condensed Matter Theory
 
-* Summer 2020: Research Assistant
+* Summer 2020 -- Summer 2021: Research Assistant
   * McGill University, Centre for the Physics of Materials
   * Theoretical research on higher-order topological insulators
   * Supervisor: Tami Pereg-Barnea
