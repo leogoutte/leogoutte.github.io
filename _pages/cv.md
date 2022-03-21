@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons.) in Physics, McGill University (2021)
+* B.Sc. (Hons.) in Physics, McGill University (2021) -- First Class Honours, Dean's Honour List
 * M.Sc. (Thesis) in Physics, McGill University (in progress)
 
 Work experience
