@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons.) in Physics, McGill University (2021) -- First Class Honours, Dean's Honour List
 * M.Sc. (Thesis) in Physics, McGill University (in progress)
+* B.Sc. (Hons.) in Physics, McGill University (2021) -- First Class Honours, Dean's Honour List
 
-Work experience
+Research experience
 ======
 * Fall 2021 -- : Graduate Research Assistant
   * McGill University, Centre for the Physics of Materials
@@ -35,6 +35,19 @@ Work experience
   * McGill Space Institute
   * Computational and observational research into Fast Radio Bursts in the gamma-ray spectrum
   * Supervisor: Ken Ragan
+
+
+Industry experience
+======
+* Summer 2018 : Mechanical engineering intern
+  * CTT Group Materials Engineering, Saint-Hyacinthe
+  * Designed electromagnetic and mechanical systems to be used in textile engineering research. Submitted two final reports to the CEO, Dr. Jacek Mlynarek.
+  * Supervisor: Dr. Jacek Mlynarek
+
+* Fall 2018 -- Summer 2021: International Research Fellow
+  * Faculty of Science Communications Office
+  * Wrote Newsroom articles and scientific paper reviews, interviewed professors about their research and promoted faculty events. 
+  * Supervisor: Fergus Grieve
 
 Publications
 ======
