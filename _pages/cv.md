@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.Sc. (Thesis) in Physics, McGill University (in progress)
+* M.Sc. (Thesis) in Physics, McGill University (2023)
 * B.Sc. (Hons.) in Physics, McGill University (2021) -- First Class Honours, Dean's Honour List
 
 Research experience
 ======
-* Fall 2021 -- : Graduate Research Assistant
+* Fall 2021 -- Summer 2023: Graduate Research Assistant
   * McGill University, Centre for the Physics of Materials
   * Theoretical research on Weyl semimetals: impurities, transport, grain boundaries
   * Supervisor: Tami Pereg-Barnea
